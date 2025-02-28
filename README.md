@@ -16,8 +16,7 @@ Para realizar este proyecto, Freenove _ofrece tutoriales_ total y claramente exp
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino IDE" width="30px"> · El código está desarrollado en el [IDE de Arduino](https://www.arduino.cc/en/software)
 ---
 ### Vídeo de presentación
-<img src="https://github.com/masdlave/masdlave/blob/main/masdlave-YT-FCK.jpg" width="70%"/>
-
+[![Video](https://github.com/masdlave/masdlave/blob/main/masdlave-YT-FCK.jpg)](https://youtu.be/tYbgsGXuw3M?feature=shared)
 #### Créditos
 - **Autor:** [@masdlave](https://github.com/masdlave) | Maria Salazar
 - [Freenove](https://freenove.com/)
